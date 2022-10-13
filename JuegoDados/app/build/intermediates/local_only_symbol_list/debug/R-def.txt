@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable dado1
+drawable dado1_background
+drawable dado2
+drawable dado2_background
+drawable dado3
+drawable dado4
+drawable dado5
+drawable dado6
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id ImagenDadoJugador
+id ImagenDadoPC
+id PuntosJugador
+id btnLanzarDados
+id btnVolverAJugar
+id puntosPC
+id txtDadosJugador
+id txtDadosPC
+id txtJuegoDados
+id txtPuntosJugador
+id txtPuntosPC
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.JuegoDados
+xml backup_rules
+xml data_extraction_rules
