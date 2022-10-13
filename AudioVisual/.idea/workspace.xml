@@ -1,36 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< Updated upstream
   <component name="AndroidLayouts">
     <shared>
       <config />
     </shared>
   </component>
-=======
->>>>>>> Stashed changes
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-    <list default="true" id="39f23ce3-bf48-4d6b-aea4-e1f77bcd060a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/adivinaelnumero/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/adivinaelnumero/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Controles1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Controles1/.idea/gradle.xml" afterDir="false" />
-=======
-    <list default="true" id="bae559b1-4f1a-4462-88ee-23c301d5bbd0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Dados/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dados/.idea/gradle.xml" afterDir="false" />
->>>>>>> Stashed changes
-    </list>
+    <list default="true" id="ece8f8d3-416e-4e79-bd87-ca6875b24f40" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< Updated upstream
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Oscar\.android\avd\Pixel_3a_API_33_x86_64.avd]" />
-=======
->>>>>>> Stashed changes
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\dam201\.android\avd\Nexus_5X_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -39,15 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-<<<<<<< Updated upstream
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Fx49cL0UJPlOkHpFdbKppQ2a9w" />
+  <component name="ProjectId" id="2FzJFVspApw2SBtafUoD6G2OpaT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-=======
-  <component name="ProjectId" id="2FzCWbU9R4lOLGtOflAiDOvylPN" />
->>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,12 +38,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-<<<<<<< Updated upstream
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Controles1" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="AdivinaElNumero.app.main" />
+      <module name="AudioVisual.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -120,27 +99,27 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dados" />
->>>>>>> Stashed changes
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< Updated upstream
-      <changelist id="39f23ce3-bf48-4d6b-aea4-e1f77bcd060a" name="Changes" comment="" />
-      <created>1665420250910</created>
+      <changelist id="ece8f8d3-416e-4e79-bd87-ca6875b24f40" name="Changes" comment="" />
+      <created>1665488875631</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665420250910</updated>
-=======
-      <changelist id="bae559b1-4f1a-4462-88ee-23c301d5bbd0" name="Changes" comment="" />
-      <created>1665485557746</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1665485557746</updated>
->>>>>>> Stashed changes
+      <updated>1665488875631</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
