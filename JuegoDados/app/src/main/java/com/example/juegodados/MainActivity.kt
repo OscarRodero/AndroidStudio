@@ -34,15 +34,12 @@ class MainActivity : AppCompatActivity() {
 
             if(contador==5){
                 contador=0
-                if(Integer.parseInt(binding.PuntosJugador.text.toString())>Integer.parseInt(binding.puntosPC.text.toString())){
-                    val toast = Toast.makeText(applicationContext, "Ganador: Jugador", Toast.LENGTH_LONG)
-                    toast.show()
-                }else if(Integer.parseInt(binding.PuntosJugador.text.toString())<Integer.parseInt(binding.puntosPC.text.toString())){
-                    val toast = Toast.makeText(applicationContext, "Ganador: PC", Toast.LENGTH_LONG)
-                    toast.show()
+                if(ptsJugador>ptsPC){
+                    Toast.makeText(this, "Ganador: Jugador", Toast.LENGTH_LONG).show()
+                }else if(ptsJugador<ptsPC){
+                    Toast.makeText(this, "Ganador: PC", Toast.LENGTH_LONG).show()
                 }else{
-                    val toast = Toast.makeText(applicationContext, "Empate", Toast.LENGTH_LONG)
-                    toast.show()
+                    Toast.makeText(this, "Empate", Toast.LENGTH_LONG).show()
                 }
                 binding.btnVolverAJugar.isEnabled=true
                 binding.btnLanzarDados.isEnabled=false

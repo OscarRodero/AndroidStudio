@@ -78,15 +78,15 @@
 
     <ImageView
         android:id="@+id/ImagenDadoPC"
-        android:layout_width="91dp"
-        android:layout_height="95dp"
+        android:layout_width="93dp"
+        android:layout_height="97dp"
         android:layout_marginStart="44dp"
         app:layout_constraintBottom_toTopOf="@+id/btnLanzarDados"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.02"
         app:layout_constraintStart_toEndOf="@+id/ImagenDadoJugador"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.668"
+        app:layout_constraintVertical_bias="0.665"
         tools:srcCompat="@tools:sample/avatars" />
 
     <TextView
