@@ -1,9 +1,21 @@
 [
     {
+<<<<<<< Updated upstream
+=======
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxxhdpi_dado1_foreground.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxxhdpi\\dado1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\drawable_dado1.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\drawable\\dado1.png"
+    },
+    {
+>>>>>>> Stashed changes
         "merged": "com.example.juegodados.app-merged_res-29:/layout_activity_main.xml.flat",
         "source": "com.example.juegodados.app-main-31:/layout/activity_main.xml"
     },
     {
+<<<<<<< Updated upstream
         "merged": "com.example.juegodados.app-merged_res-29:/drawable_dado2.png.flat",
         "source": "com.example.juegodados.app-main-31:/drawable/dado2.png"
     },
@@ -98,5 +110,233 @@
     {
         "merged": "com.example.juegodados.app-merged_res-29:/drawable_dado4.png.flat",
         "source": "com.example.juegodados.app-main-31:/drawable/dado4.png"
+=======
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-hdpi_dado1_foreground.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-hdpi\\dado1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxhdpi_dado1_round.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxhdpi\\dado1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-mdpi_dado2.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-mdpi\\dado2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-mdpi_dado1_round.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-mdpi\\dado1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-anydpi-v26_dado2_round.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-anydpi-v26\\dado2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\drawable_dado4.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\drawable\\dado4.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-hdpi_dado2_round.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-hdpi\\dado2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxhdpi_dado1_foreground.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxhdpi\\dado1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-hdpi_dado1.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-hdpi\\dado1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxxhdpi_dado2.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxxhdpi\\dado2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xhdpi_dado1.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xhdpi\\dado1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xhdpi_dado1_foreground.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xhdpi\\dado1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\drawable_dado2.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\drawable\\dado2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\drawable_dado5.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\drawable\\dado5.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-hdpi_dado1_round.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-hdpi\\dado1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-anydpi-v26_dado2.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-anydpi-v26\\dado2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-mdpi_dado2_round.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-mdpi\\dado2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxxhdpi_dado1_round.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxxhdpi\\dado1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-mdpi_dado2_foreground.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-mdpi\\dado2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxxhdpi_dado1.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxxhdpi\\dado1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\drawable_dado2_background.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\drawable\\dado2_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xhdpi_dado2_foreground.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xhdpi\\dado2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\drawable_dado3.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\drawable\\dado3.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxhdpi_dado2_round.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxhdpi\\dado2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xhdpi_dado2_round.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xhdpi\\dado2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-mdpi_dado1_foreground.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-mdpi\\dado1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\drawable_dado6.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\drawable\\dado6.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-anydpi-v26_dado1.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-anydpi-v26\\dado1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxhdpi_dado2.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxhdpi\\dado2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-mdpi_dado1.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-mdpi\\dado1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxxhdpi_dado2_foreground.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxxhdpi\\dado2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\drawable_dado1_background.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\drawable\\dado1_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxxhdpi_dado2_round.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxxhdpi\\dado2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-hdpi_dado2_foreground.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-hdpi\\dado2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxhdpi_dado1.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxhdpi\\dado1.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xxhdpi_dado2_foreground.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xxhdpi\\dado2_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-hdpi_dado2.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-hdpi\\dado2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xhdpi_dado1_round.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xhdpi\\dado1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-xhdpi_dado2.png.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-xhdpi\\dado2.png"
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-merged_res-29:\\mipmap-anydpi-v26_dado1_round.xml.flat",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-debug-30:\\mipmap-anydpi-v26\\dado1_round.xml"
+>>>>>>> Stashed changes
     }
 ]

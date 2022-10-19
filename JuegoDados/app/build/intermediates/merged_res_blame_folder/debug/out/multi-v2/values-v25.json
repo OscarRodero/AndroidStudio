@@ -4,7 +4,11 @@
             "outputFile": "com.example.juegodados.app-mergeDebugResources-27:/values-v25/values-v25.xml",
             "map": [
                 {
+<<<<<<< Updated upstream
                     "source": "C:\\Users\\dam201\\.gradle\\caches\\transforms-3\\685980b024686d78956b91eec9b43f3b\\transformed\\appcompat-1.5.1\\res\\values-v25\\values-v25.xml",
+=======
+                    "source": "C:\\Users\\Oscar\\.gradle\\caches\\transforms-3\\685980b024686d78956b91eec9b43f3b\\transformed\\appcompat-1.5.1\\res\\values-v25\\values-v25.xml",
+>>>>>>> Stashed changes
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

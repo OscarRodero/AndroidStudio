@@ -18,7 +18,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< Updated upstream
         android:testOnly="true"
+=======
+>>>>>>> Stashed changes
         android:theme="@style/Theme.JuegoDados" >
         <activity
             android:name="com.example.juegodados.MainActivity"

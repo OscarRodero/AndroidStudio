@@ -2,5 +2,12 @@
     {
         "merged": "com.example.juegodados.app-mergeDebugResources-28:/layout/activity_main.xml",
         "source": "com.example.juegodados.app-main-31:/layout/activity_main.xml"
+<<<<<<< Updated upstream
+=======
+    },
+    {
+        "merged": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Oscar\\.gradle\\daemon\\7.4\\com.example.juegodados.app-main-31:\\layout\\activity_main.xml"
+>>>>>>> Stashed changes
     }
 ]

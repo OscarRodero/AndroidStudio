@@ -1,12 +1,23 @@
+<<<<<<< Updated upstream
 #Thu Oct 13 10:41:37 CEST 2022
+=======
+#Tue Oct 11 21:19:06 CEST 2022
+>>>>>>> Stashed changes
 path.3=15/classes.dex
 path.2=13/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
+<<<<<<< Updated upstream
 base.3=C\:\\Users\\dam201\\devs\\dev1\\AndroidStudio\\JuegoDados\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
 base.2=C\:\\Users\\dam201\\devs\\dev1\\AndroidStudio\\JuegoDados\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
 base.1=C\:\\Users\\dam201\\devs\\dev1\\AndroidStudio\\JuegoDados\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.0=C\:\\Users\\dam201\\devs\\dev1\\AndroidStudio\\JuegoDados\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+=======
+base.3=D\:\\insti\\2DAM\\Android\\AndroidStudio\\JuegoDados\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.2=D\:\\insti\\2DAM\\Android\\AndroidStudio\\JuegoDados\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.1=D\:\\insti\\2DAM\\Android\\AndroidStudio\\JuegoDados\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=D\:\\insti\\2DAM\\Android\\AndroidStudio\\JuegoDados\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+>>>>>>> Stashed changes
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex

@@ -1,2 +1,6 @@
 #- File Locator -
+<<<<<<< Updated upstream
 listingFile=../../apk/debug/output-metadata.json
+=======
+listingFile=../../../outputs/apk/debug/output-metadata.json
+>>>>>>> Stashed changes
